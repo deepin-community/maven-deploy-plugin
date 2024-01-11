@@ -1,3 +1,22 @@
+maven-deploy-plugin (3.1.1-1) unstable; urgency=medium
+
+  * New upstream release
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Sun, 11 Jun 2023 09:43:02 +0200
+
+maven-deploy-plugin (3.0.0-1) unstable; urgency=medium
+
+  * New upstream release
+    - Removed the patch
+    - New dependency on libmaven-resolver-transport-http-java
+  * Depend on libmaven-parent-java
+  * Standards-Version updated to 4.6.2
+  * Switch to debhelper level 13
+  * Use salsa.debian.org Vcs-* URLs
+  * Track and download the new releases from GitHub
+
+ -- Emmanuel Bourg <ebourg@apache.org>  Tue, 10 Jan 2023 01:20:44 +0100
+
 maven-deploy-plugin (2.8.2-3) unstable; urgency=medium
 
   * Added the missing build dependency on junit
