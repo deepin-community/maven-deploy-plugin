@@ -1,6 +1,6 @@
 Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: Maven Deploy Plugin
-Source: http://maven.apache.org/plugins/maven-deploy-plugin/
+Source: https://github.com/apache/maven-deploy-plugin
 
 Files: *
 Copyright: 2004-2014, The Apache Software Foundation
